@@ -1,0 +1,11 @@
+D:\New_folder\Work\Jobs\Online Grocery Store\bin\Debug\netcoreapp2.2\Online Grocery Store.deps.json
+D:\New_folder\Work\Jobs\Online Grocery Store\bin\Debug\netcoreapp2.2\Online Grocery Store.runtimeconfig.json
+D:\New_folder\Work\Jobs\Online Grocery Store\bin\Debug\netcoreapp2.2\Online Grocery Store.runtimeconfig.dev.json
+D:\New_folder\Work\Jobs\Online Grocery Store\bin\Debug\netcoreapp2.2\Online Grocery Store.dll
+D:\New_folder\Work\Jobs\Online Grocery Store\bin\Debug\netcoreapp2.2\Online Grocery Store.pdb
+D:\New_folder\Work\Jobs\Online Grocery Store\obj\Debug\netcoreapp2.2\Online Grocery Store.csprojAssemblyReference.cache
+D:\New_folder\Work\Jobs\Online Grocery Store\obj\Debug\netcoreapp2.2\Online Grocery Store.csproj.CoreCompileInputs.cache
+D:\New_folder\Work\Jobs\Online Grocery Store\obj\Debug\netcoreapp2.2\Online Grocery Store.AssemblyInfoInputs.cache
+D:\New_folder\Work\Jobs\Online Grocery Store\obj\Debug\netcoreapp2.2\Online Grocery Store.AssemblyInfo.cs
+D:\New_folder\Work\Jobs\Online Grocery Store\obj\Debug\netcoreapp2.2\Online Grocery Store.dll
+D:\New_folder\Work\Jobs\Online Grocery Store\obj\Debug\netcoreapp2.2\Online Grocery Store.pdb
